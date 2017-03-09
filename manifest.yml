@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: MWAclasss01test017793
+  host: MWAclasss01test017793
+  disk_quota: 1024M
